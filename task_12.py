@@ -65,7 +65,7 @@ def ornament():
     turtle.tracer(False)
     square(200, (0, 0), color_dict['sea_green'], color_dict['sea_green'], 1)
     hoop(100, (200, 100), color_dict['white'], color_dict['dark_red'], 2)
-    circle(50, (150, 100), color_dict['white'], color_dict['medium_blue'], 2)
+    circle(40, (140, 100), color_dict['white'], color_dict['medium_blue'], 2)
     
     turtle.done()
 
